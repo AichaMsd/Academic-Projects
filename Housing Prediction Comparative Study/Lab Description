@@ -1,5 +1,6 @@
 In this Lab, we are asked to use different Machine Learning models to to build a predictive model 
 where the output is “MEDV - Median value of owner-occupied homes in $1000’s”.
+Dataset can be found through the following link: https://archive.ics.uci.edu/ml/machine-learning-databases/housing/?C=S;O=A 
 
 Dataset:
    CRIM     per capita crime rate by town
